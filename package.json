@@ -4,5 +4,25 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongodb": "^4.13.0"
-  }
+  },
+  "name": "online-school-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Md-Mubarak-Hossain/online-school-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Md-Mubarak-Hossain/online-school-server/issues"
+  },
+  "homepage": "https://github.com/Md-Mubarak-Hossain/online-school-server#readme",
+  "description": ""
 }
